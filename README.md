@@ -36,3 +36,5 @@ Language : Python (filetype: .ipynb)
 - **EXPLORATORY DATA ANALYSIS (EDA) NUMERIC VARIABLE (*Bivariate Analysis*)**
 - **EXPLORATORY DATA ANALYSIS (EDA) CATEGORICAL VARIABLE (*Multivariate Analysis*)**
 - **CORRELATION ANALYSIS**
+
+## Click [Here](https://arienugroho050396.github.io/project1.html) for Visualize and Analyze
