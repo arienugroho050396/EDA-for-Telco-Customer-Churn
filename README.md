@@ -31,4 +31,7 @@ Language : Python (filetype: .ipynb)
 - **PaperlessBilling** — Whether the customer has a paperless bill or not (Yes, No).
 - **PaymentMethod** — Customer payment methods (E-Check, Mailed Check, Bank Transfer (Auto), Credit Card (Auto)).
 
-
+## Step Inside The Program
+- DISPLAY FREQUENCY DISTRIBUTION FOR CHURN
+- EXPLORATORY DATA ANALYSIS (EDA) NUMERIC VARIABLE
+- EXPLORATORY DATA ANALYSIS (EDA) CATEGORICAL VARIABLE
