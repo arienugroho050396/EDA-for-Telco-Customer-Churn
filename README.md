@@ -5,10 +5,10 @@
 ## Introduction
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets] Content
 ## Technical
-Language : Python (filetype: *.ipynb*)
-Library :
-- Matplotlib
-- Seaborn
+- Language : Python (filetype: *.ipynb*)
+- Library :
+  - Matplotlib
+  - Seaborn
 ## Content
 ### TARGET :
 - **Churn** — Whether the customer churned or not (Yes or No)
