@@ -40,4 +40,4 @@
 - **EXPLORATORY DATA ANALYSIS (EDA) CATEGORICAL VARIABLE (*Multivariate Analysis*)**
 - **CORRELATION ANALYSIS**
 
-## [Click Here  for Visualize and Analyze](https://arienugroho050396.github.io/project1.html) :thumbsup: :thumbsup: :thumbsup: 
+## [Click Here  for Visualize and Analyze](https://arienugroho050396.github.io/project2.html) :thumbsup: :thumbsup: :thumbsup: 
