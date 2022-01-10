@@ -7,7 +7,7 @@
 ## Technical
 - Language : Python (filetype: *.ipynb*)
 - Library :
-  - Matplotlib
+  - Matplotlib 
   - Seaborn
 ## Content
 ### TARGET :
