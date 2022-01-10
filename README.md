@@ -1,4 +1,4 @@
-# Exploratory Data Analysis for Telco Customer Churn :telephone:
+# Exploratory Data Analysis for Telco Customer Churn :telephone: 
 
 [*here you can download the cheatsheet*](https://www.kaggle.com/blastchar/telco-customer-churn)
 
