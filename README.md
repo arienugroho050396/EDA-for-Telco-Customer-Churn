@@ -1,6 +1,6 @@
 # Exploratory Data Analysis for Telco Customer Churn :telephone: 
 
-[*here you can download the cheatsheet*](https://www.kaggle.com/blastchar/telco-customer-churn)
+[*here you can download the cheatsheet*](https://www.kaggle.com/blastchar/telco-customer-churn) 
 
 ## Introduction 
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets] Content
