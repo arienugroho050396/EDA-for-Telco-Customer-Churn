@@ -35,7 +35,7 @@
 - **PaymentMethod** — Customer payment methods (E-Check, Mailed Check, Bank Transfer (Auto), Credit Card (Auto)).
 
 ## Step Inside The Program
-- **DISPLAY FREQUENCY DISTRIBUTION FOR CHURN (*Univariate Analysis*)**
+- **DISPLAY FREQUENCY DISTRIBUTION FOR CHURN (*Univariate Analysis*)** 
 - **EXPLORATORY DATA ANALYSIS (EDA) NUMERIC VARIABLE (*Bivariate Analysis*)**
 - **EXPLORATORY DATA ANALYSIS (EDA) CATEGORICAL VARIABLE (*Multivariate Analysis*)**
 - **CORRELATION ANALYSIS**
