@@ -32,7 +32,7 @@
 - **StreamingMovies** — Whether the subscriber has streaming movies or not (Yes, No, No Internet Service).
 - **Contract** — Term of the customer's contract (Monthly, 1-Year, 2-Year).
 - **PaperlessBilling** — Whether the customer has a paperless bill or not (Yes, No).
-- **PaymentMethod** — Customer payment methods (E-Check, Mailed Check, Bank Transfer (Auto), Credit Card (Auto)).
+- **PaymentMethod** — Customer payment methods (E-Check, Mailed Check, Bank Transfer (Auto), Credit Card (Auto)). 
 
 ## Step Inside The Program
 - **DISPLAY FREQUENCY DISTRIBUTION FOR CHURN (*Univariate Analysis*)** 
